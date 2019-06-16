@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.tab {
+  font-family: Verdana;
+  color: #000000;
+}
+
+.textfield {
+  color: blue;
+
+}
